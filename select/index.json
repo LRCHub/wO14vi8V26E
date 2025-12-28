@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "BYOB (bring your own best friend)",
+  "base_artist": "Billlie",
+  "createdAt": "2025-12-28T02:30:52.013006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend) (BYOB (bring your own best friend))",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/01_BYOB_(bring_your_own_best_friend)_(BYOB_(bring_your_own_best_friend))_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend) - Japanese ver. -",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/02_BYOB_(bring_your_own_best_friend)_-_Japanese_ver._-_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/03_BYOB_(bring_your_own_best_friend)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend)",
+      "artist": "Billlie",
+      "has_synced": false,
+      "path": "select/04_BYOB_(bring_your_own_best_friend)_Billlie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend) (English Ver.) (BYOB (bring your own best friend) (English Ver.))",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/05_BYOB_(bring_your_own_best_friend)_(English_Ver.)_(BYOB_(bring_your_own_best_frie_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/06_BYOB_(bring_your_own_best_friend)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend)",
+      "artist": "Billlie (빌리)",
+      "has_synced": true,
+      "path": "select/07_BYOB_(bring_your_own_best_friend)_Billlie_(빌리).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend) (English ver.)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/08_BYOB_(bring_your_own_best_friend)_(English_ver.)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BYOB (bring your own best friend) [English Ver.]",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/09_BYOB_(bring_your_own_best_friend)_[English_Ver.]_Billlie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BYOB (bring your own best friend)",
+      "artist": "Billlie",
+      "has_synced": false,
+      "path": "select/pl_01_BYOB_(bring_your_own_best_friend)_Billlie.txt"
+    }
+  ]
+}
